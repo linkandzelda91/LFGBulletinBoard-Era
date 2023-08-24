@@ -1,8 +1,8 @@
 ## Interface: 30400
-## Title: LFG Bulletin Board
+## Title: LFG Bulletin Board Classic
 ## Notes: Sort LFG/LFM Messages
-## Version: 3.09
-## Author: Vyscî-Whitemane
+## Version: 1.00
+## Author: Vyscî-Whitemane, patched by Link
 ## DefaultState: enabled
 ## SavedVariables: GroupBulletinBoardDB
 ## SavedVariablesPerCharacter: GroupBulletinBoardDBChar
