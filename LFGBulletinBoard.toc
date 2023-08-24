@@ -1,5 +1,5 @@
 ## Interface: 30400
-## Title: LFG Bulletin Board Classic
+## Title: LFG Bulletin Board Era
 ## Notes: Sort LFG/LFM Messages
 ## Version: 1.00
 ## Author: Vyscî-Whitemane, patched by Link
